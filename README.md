@@ -33,7 +33,7 @@ This project shows where the world is improving in health — and where it's fal
 
 ---
 
-## 🧹 Step 1: Cleaning the Data (Before Telling the Story)
+## Step 1: Cleaning the Data (Before Telling the Story)
 
 Real-world data is messy. Had to clean it before analyzing it.
 
